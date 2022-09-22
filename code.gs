@@ -1,5 +1,5 @@
 function send_discord(e) {
-  const WEBHOOKURL = "https://discord.com/api/webhooks/1022480376746229892/OiiUfiB6xf0zZnwpnWuHcAx-wXbzg9b_AYuVZX3-wmRtXw65X2T7WP_5pEwMmXfu9EFx"
+  const WEBHOOKURL = "YOURWEBHOOK"
 
   URL = getURL(e)
 
